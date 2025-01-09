@@ -1,0 +1,9 @@
+.box {
+    border: 2px solid black;
+    padding: 34px;
+    box-shadow: 5px 4px 15px 0px black;
+}
+
+.text-element {
+    text-shadow: 3px 2px 4px rgb(193, 75, 167);
+}

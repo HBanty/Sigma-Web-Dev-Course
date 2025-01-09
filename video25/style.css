@@ -1,0 +1,12 @@
+nav ul li{
+    list-style-type: devnagari;
+    padding: 23px;
+    /* list-style-type: " ***"; */
+    background-color: yellow;
+    list-style-position: inside;
+    border: 2px solid black;
+    /* list-style-image: url("IMG-20240629-WA0025\ \(1\).jpg"); */
+    /* list-style-type: disc inside ; */
+    /* list-style-image: inside url("IMG-20240629-WA0025\ \(1\).jpg"); */
+
+}
